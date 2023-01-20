@@ -27,7 +27,7 @@ d. What percentage of crashes are single-car?
 
 	a. Excel
 	b. Yes, 8556
-	c. ???
+	c. Excel
 	d. 15.7416441%
 
 4. How many accidents occurred which are hit and run and had at least one injury?
